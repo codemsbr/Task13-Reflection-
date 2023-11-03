@@ -1,0 +1,15 @@
+C:\CodeTasks\Task13(Reflection)\bin\Debug\net6.0\Task13(Reflection).exe
+C:\CodeTasks\Task13(Reflection)\bin\Debug\net6.0\Task13(Reflection).deps.json
+C:\CodeTasks\Task13(Reflection)\bin\Debug\net6.0\Task13(Reflection).runtimeconfig.json
+C:\CodeTasks\Task13(Reflection)\bin\Debug\net6.0\Task13(Reflection).dll
+C:\CodeTasks\Task13(Reflection)\bin\Debug\net6.0\Task13(Reflection).pdb
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\Task13(Reflection).csproj.AssemblyReference.cache
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\Task13(Reflection).GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\Task13(Reflection).AssemblyInfoInputs.cache
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\Task13(Reflection).AssemblyInfo.cs
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\Task13(Reflection).csproj.CoreCompileInputs.cache
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\Task13(Reflection).dll
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\refint\Task13(Reflection).dll
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\Task13(Reflection).pdb
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\Task13(Reflection).genruntimeconfig.cache
+C:\CodeTasks\Task13(Reflection)\obj\Debug\net6.0\ref\Task13(Reflection).dll
